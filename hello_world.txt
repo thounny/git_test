@@ -1,0 +1,2 @@
+Day 4 of overview for HTML and CSS. Used freecodecamp and now checking out the Odin Project.
+Having fun so far going through git commands because I've seen it being used in several videos.
